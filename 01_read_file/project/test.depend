@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1658703900 source:c:\users\oki\desktop\test\main.cpp
+	<set>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+
